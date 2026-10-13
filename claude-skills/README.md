@@ -1,6 +1,6 @@
 # Claude 스킬 사용 설명서
 
-`~/.claude/skills` 에 설치된 스킬 77개의 사용 설명서. 스킬 이름마다 폴더가 있다.
+`~/.claude/skills` 에 설치된 스킬 78개의 사용 설명서. 스킬 이름마다 폴더가 있다.
 
 - 일반 스킬은 직접 작성한 설명서, GSD 스킬은 스킬 메타데이터(인자 힌트)를 바탕으로 정리한 설명서다
 
@@ -10,6 +10,7 @@
 |---|---|
 | [`agent-browser`](agent-browser/agent-browser.md) | 웹 브라우저 자동화 CLI |
 | [`design-taste-frontend`](design-taste-frontend/design-taste-frontend.md) | 템플릿 티 나지 않는 프론트엔드 제작 |
+| [`figma`](figma/figma.md) | Figma MCP로 디자인을 코드로 변환 (openai/skills) |
 | [`find-skills`](find-skills/find-skills.md) | 설치 가능한 스킬 찾기/설치 |
 | [`mcp-builder`](mcp-builder/mcp-builder.md) | MCP 서버 제작 가이드 |
 | [`ui-ux-pro-max`](ui-ux-pro-max/ui-ux-pro-max.md) | UI/UX 디자인 인텔리전스 (디자인 시스템, 리뷰, 컴포넌트) |
